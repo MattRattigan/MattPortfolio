@@ -63,6 +63,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  color : #17527f;
 }
 
 @media (prefers-reduced-motion: no-preference) {
